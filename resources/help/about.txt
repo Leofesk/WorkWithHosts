@@ -1,0 +1,12 @@
+Description:
+
+This program helps you work with hosts. Very fast and easy to use program for editing.
+
+Basic functional:
+
+- Opportunity select the file location on their own.
+- Opportunity save the edited file.
+
+Support:
+
+If you find bug, please contact to me > leofesk (Skype)
